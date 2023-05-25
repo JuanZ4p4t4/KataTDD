@@ -3,4 +3,5 @@ class Conjunto:
         self.__conjunto=conjunto
 
 
-    def promedio( self
+    def promedio( self ):
+        return False
